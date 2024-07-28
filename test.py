@@ -1,0 +1,5 @@
+print('git project test')
+print('add apple')
+print('add cashcow')
+print('add destruction')
+print('have to study how to use the git for task')
